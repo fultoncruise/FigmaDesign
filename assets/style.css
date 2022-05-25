@@ -1,0 +1,85 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f6e5c5; 
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    background-color: teal;
+    color: white;
+    padding: 6px;
+    border-radius: 6px;
+    
+}
+
+*{
+    color: teal;
+}
+
+h2 {
+    background-color: teal;
+    color: white;
+    padding: 6px;
+    border-radius: 6px;
+}
+
+.Protein{
+         width: 93px;
+         height: 19px;
+         background-color: burlywood;
+         color: #7D4F50;
+         margin-left: 5px;
+}
+
+.Calories{
+          width: 140px;
+          height: 19px;
+          background-color: lightskyblue;
+          color: #4F8DC2;
+          margin-left: 5px;
+          margin-right: 5px;
+          padding: 1px;
+}
+
+
+.wheat {
+   
+    background-color: #c5eae0;
+    padding: 2px 6px;
+}
+
+section {
+    border-bottom: 1px solid teal;
+    padding-bottom: 20px;
+}
+
+section img {
+    border: 1px solid teal;
+    border-radius: 6px;
+    margin-top: 12px;
+}
+
+.step {
+    height: 50px;
+    width: 50px;
+    background-color: teal;
+    color: white;
+    display: block;
+    font-size: 48px;
+    text-align:center;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    margin-top: 13px;
+}
+
+h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin: 0;
+    
+}
+.upercase{
+    text-transform: uppercase;
+}
